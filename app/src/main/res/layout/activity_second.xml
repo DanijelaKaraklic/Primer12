@@ -15,6 +15,13 @@
         android:onClick="btnStartActivityClicked"
         />
 
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Start the camera"
+        android:id="@+id/start_activity2"
+        android:onClick="btnOpenCameraClicked"
+        />
 
 
 
